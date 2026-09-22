@@ -81,4 +81,10 @@ python scripts/sjtu_calendar_sync.py --logout
 - Deletion is disabled if the source response cannot be shown to be complete.
 - The source event payload must expose a stable `id`, `eventId`, `eventID`, `uuid`, or
   `uid` field. The tool refuses to create events from mutable fields alone.
-- A software license has not yet been selected; choose one before public distribution.
+
+## License
+
+This project is source-available under the
+[PolyForm Noncommercial License 1.0.0](LICENSE). Personal study, research, modification,
+and noncommercial distribution are permitted; commercial use is not. Because commercial
+use is restricted, this project is not OSI-approved open-source software.
