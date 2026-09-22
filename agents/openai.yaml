@@ -1,0 +1,4 @@
+interface:
+  display_name: "SJTU Calendar Sync"
+  short_description: "Safely preview and sync SJTU events to CalDAV"
+  default_prompt: "Use $sjtu-calendar-sync to preview my SJTU calendar changes before syncing them to iCloud."

@@ -1,0 +1,7 @@
+caldav>=3,<4
+icalendar>=6,<8
+platformdirs>=4,<5
+qrcode[pil]>=8,<9
+requests>=2,<3
+urllib3>=2,<3
+websocket-client>=1,<2
